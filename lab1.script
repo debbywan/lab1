@@ -1,0 +1,18 @@
+Script started on 2015年03月10日 (週二) 17時47分28秒
+]0;F74011205@2015cpp: ~F74011205@2015cpp:~$ wg[Khoami:[K;pwd
+F74011205
+/home/F74011205
+]0;F74011205@2015cpp: ~F74011205@2015cpp:~$ config -l
+No command 'config' found, did you mean:
+ Command 'fconfig' from package 'redboot-tools' (main)
+ Command 'zconfig' from package 'python-zconfig' (universe)
+ Command 'vconfig' from package 'vlan' (main)
+ Command 'mconfig' from package 'mono-devel' (main)
+config: command not found
+]0;F74011205@2015cpp: ~F74011205@2015cpp:~$ git coni[Kfig -l
+]0;F74011205@2015cpp: ~F74011205@2015cpp:~$ git clonde[K[Ke https;00[K[K[K:00[K[K))[K[K[K)//[K[K[K;//[K[K[K?[K://github.com/debbywan/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74011205@2015cpp: ~F74011205@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時51分32秒
