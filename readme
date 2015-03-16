@@ -1,0 +1,4 @@
+
+g++ -o lab labl.cpp
+
+./lab1
